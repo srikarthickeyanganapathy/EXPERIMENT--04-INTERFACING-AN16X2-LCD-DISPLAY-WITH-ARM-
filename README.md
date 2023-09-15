@@ -196,7 +196,7 @@ int main(void)
   Lcd_cursor(&lcd, 0, 1);
   Lcd_string(&lcd, "AIML DEPT");
   Lcd_cursor(&lcd, 1, 2);
-  Lcd_string(&lcd, "AAKASH");
+  Lcd_string(&lcd, "SRI KARTHICKEYAN GANAPATHY");
 }
 ```
 ## Output screen shots of proteus  :
